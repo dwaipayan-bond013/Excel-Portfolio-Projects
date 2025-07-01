@@ -4,7 +4,7 @@ Welcome to my Excel portfolio repository! Here you'll find a collection of Excel
 # About Me
 I am a passionate data enthusiast with a strong background in Excel. Over the years, I have honed my skills in writing and optimizing complex queries, and leveraging Excel's powerful features to extract meaningful insights from data. This portfolio serves as a testament to my proficiency in Excel and demonstrates my ability to tackle real-world data challenges.
 
-# SQL projects
+# Excel projects
 In this repository, you will find  Excel projects, including:
 
 1. :🛒[**Instamart Sale Analysis**]: The Instamart Sales Analysis project is a dynamic Excel dashboard designed to analyze sales performance across different outlet types, sizes, locations, and product categories. It visualizes key metrics such as total sales, item volume, average rating, and sales trends from 2011 to 2022. The dashboard enables actionable insights into customer preferences, outlet efficiency, and regional performance to support data-driven retail strategies.
