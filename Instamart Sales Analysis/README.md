@@ -119,7 +119,7 @@ The Instamart dashboard provides a complete analysis of sales across different o
   - Introduce value packs, combo offers, and seasonal bundles for top categories
   - Since beverages, breakfast, and canned foods have the lowest sales, audit shelf placement and promotion strategies for these items
   - Explore partnerships with trending D2C brands to boost visibility and relevance
-  - Average rating is 3.9, indicating room for improvementImplement real-time customer feedback collection at checkout
+  - Average rating is 3.9, indicating room for improvement. Implementing real-time customer feedback collection at checkout can be useful
   - Regular fat items dominate, but Tier 1 & Tier 2 locations show demand for low-fat options. Promote low-fat and health-conscious items via dedicated sections, wellness campaigns, or influencer tie-ups
   - Introduce trial packs and “healthy choice” badges on products
   - Relaunch targeted promotions, subscription models, and referral incentives
