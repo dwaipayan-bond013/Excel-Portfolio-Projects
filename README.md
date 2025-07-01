@@ -7,7 +7,7 @@ I am a passionate data enthusiast with a strong background in Excel. Over the ye
 # Excel projects
 In this repository, you will find  Excel projects, including:
 
-1. :🛒[**Instamart Sale Analysis**](https://github.com/dwaipayan-bond013/Excel-Portfolio-Projects/tree/main/Instamart%20Sales%20Analysis): The Instamart Sales Analysis project is a dynamic Excel dashboard designed to analyze sales performance across different outlet types, sizes, locations, and product categories. It visualizes key metrics such as total sales, item volume, average rating, and sales trends from 2011 to 2022. The dashboard enables actionable insights into customer preferences, outlet efficiency, and regional performance to support data-driven retail strategies.
+1. :🛒[**Instamart Sales Analysis**](https://github.com/dwaipayan-bond013/Excel-Portfolio-Projects/tree/main/Instamart%20Sales%20Analysis): The Instamart Sales Analysis project is a dynamic Excel dashboard designed to analyze sales performance across different outlet types, sizes, locations, and product categories. It visualizes key metrics such as total sales, item volume, average rating, and sales trends from 2011 to 2022. The dashboard enables actionable insights into customer preferences, outlet efficiency, and regional performance to support data-driven retail strategies.
 
 # Repository Structure
 To explore my Excel portfolio, follow these steps:
